@@ -1,0 +1,130 @@
+body{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+    border: 190px solid whitesmoke;
+    height: 0%;
+}
+.bold-text{
+    text-align: center;
+    padding: 4rem;
+    margin: 20px;
+}
+.cone1{
+    font-size: xx-large;
+    padding-bottom: 5rem;
+}
+.cone2{
+    padding-bottom: 1rem;
+    font-size: xx-large;
+    margin: 0rem;
+}
+.card__image{
+    width: 20rem;
+    height: 250px;
+    padding-right: 15px;
+    padding-bottom: 15px;
+}
+.card__image1{
+    width: 20rem;
+    height: 250px; 
+    padding-left: 15px;
+}
+.head-container{
+    display: flex;
+    justify-content: space-between;
+    padding-top: rem;
+}
+.head-container p{
+    text-align: center;
+    text-transform: lowercase;
+    font-size:large;
+    padding-top: 50px;
+    color: #949090;
+}
+.letter{
+   font-family: 'Ubuntu', sans-serif;
+   text-align: center;
+   text-overflow: clip;
+   padding-bottom: 50rem;
+}
+.btn-spread{
+    display: flex;
+    padding-left: 19rem;
+}
+.btn-spread button{
+    margin: 6px 10px;
+    padding: 2rem 3rem;
+    border-radius: 50px;
+    font-family:'Ubuntu', sans-serif;
+}
+.btn1{
+    font-size: large;
+    color: #ffff;
+    background-color: #008080;
+    outline:#ffff;
+}
+.btn2{
+    font-size: large;
+    color: #ffff;
+    background-color: #880d88;
+    outline:#ffff;
+}
+/* .btn1:hover{
+background: #2d669d;
+color: #ffff;
+outline: auto;
+font-size: larger;
+} */
+.box-containers{
+    display:flex;
+}
+.box-1{
+    width: 240px;
+    border-radius: 1rem;
+    padding-left: 15px;
+    height: 30vh;
+}
+.box-2{
+    width: 240px;
+    border-radius: 19px;
+    padding-left: 15px;
+    height: 30vh;
+
+}
+.box-3{
+    width: 240px;
+    border-radius: 1rem;
+    padding-left: 15px;
+    height: 30vh;
+}
+.box-4{
+    width: 240px;
+    border-radius: 1rem;
+    padding-left: 15px;
+    height: 30vh;
+}
+.third-container{
+    text-align: center;
+    font-size: larger;
+    font-family: 'Ubuntu', sans-serif;
+    /* color: #2d669d; */
+}
+.third-container h2{
+    font-style: normal;
+}
+.bold{
+    color: #2d669d;
+    text-transform: uppercase;
+    font-style: bold;
+}
+.end{
+    text-align: center;
+    font-size: normal;
+    font-family:'Ubuntu', sans-serif;
+    font-style: bold;
+}
+.end p{
+    color: rgb(161, 152, 152);
+    font-size: large;
+}
